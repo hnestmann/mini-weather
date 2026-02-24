@@ -2,7 +2,7 @@
 
 A minimal weather Android app optimized for the **Minimal Phone** (600×800 e-ink display) and other e-paper devices.
 
-Mostly created by cursor composer model. Highly Higly inspired by https://github.com/aftercupapp/minimal-weather/
+Mostly created by cursor composer model. Highly, Highly inspired by https://github.com/aftercupapp/minimal-weather/
 
 
 ## Features
