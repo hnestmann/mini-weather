@@ -1,0 +1,304 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/hnestmann/.gradle/caches/transforms-4/8a396715b5356976677ed6520b80f39a/transformed/material3-1.1.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/61c2a15a9daca68ffb4734bf99a1a285/transformed/activity-1.8.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/02b1420c768fc00a460de45d3f4510d4/transformed/activity-ktx-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/a955c1767d01f8f5758816819f5cb709/transformed/activity-compose-1.8.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7469e1975cf0c52058390efc01f85ff0/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/fb79e79f36b38e33efa4bdeb44cc7992/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/a59ff0b1e0f836b5e450497b56083d2a/transformed/material-icons-extended-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b84256b96c67c0224aa23c6fb33b458/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b0eb6ab1f5da91864bd638096b64cdc/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/31c1a09ca0b9bed29def874a61fe2245/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/850b967275607c2738bdab25f86f336a/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/0324e0209f7399d92b4257e44907434f/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/18fb35f371f38115ed01127d08e26a54/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7ccfad88ed455741bf1319c65a778ffd/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/e161ebeacb2c3fc2d16a333146af5029/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/33854eac49f41b91b2b4dccaddcfbfa0/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/44f83220e136cdd06629ed415d076ce9/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/32c957beaac136de444ac81466d04df8/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/fc248d758739c28e219a223bd6441d38/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/ce30c6789e35987104af8afaca017257/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/b8d5abd0b55ab7ef50859757afcc7cdc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/165ea992e44e5d3ff99fe529e18a2ffe/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5935cfa9fa88d376fea27db4df0a341b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/e9f95c9a88bc32816c18f0447074d16f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/899c304d4183abaafc990b7927eee077/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/69b1215de6a549444fca2d3d2e8e1f9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/51eeca12a4c74e1b56763bdfb3b83b3e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5b26dbe1b85916298543c81b63988c9d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/4414a03736c07d64e1073b819d0cc1a6/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/4268bccb8a9cabed4ed87224eda8187b/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/006108bc57c4dffda7b578ea092a68a1/transformed/datastore-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/6ca6f7704cefc0213f952738ac8104c9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/40eb0fbf460a75fd8a45edd5b1bc0945/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/c225778c4374daf5f1e5f5d32a4d2821/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cc1755a4d2fbf5066ffa0a8e75f570a1/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/2d185c052cc5d6d28d867af6978427e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hnestmann/.gradle/caches/transforms-4/605f44ebea5276fb1be7b7ca21f259f0/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cfc321db71d3a58a0fb1b19ab4b4b34c/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:4:22-76
+application
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:5:5-24:19
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/2d185c052cc5d6d28d867af6978427e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/2d185c052cc5d6d28d867af6978427e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:8:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:12:9-44
+	android:roundIcon
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:11:9-49
+activity#com.miniweather.app.MainActivity
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:13:9-23:20
+	android:windowSoftInputMode
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:18:13-55
+	android:exported
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:17:13-71
+	android:theme
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/hnestmann/.gradle/caches/transforms-4/8a396715b5356976677ed6520b80f39a/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.2] /Users/hnestmann/.gradle/caches/transforms-4/8a396715b5356976677ed6520b80f39a/transformed/material3-1.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/61c2a15a9daca68ffb4734bf99a1a285/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/61c2a15a9daca68ffb4734bf99a1a285/transformed/activity-1.8.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/02b1420c768fc00a460de45d3f4510d4/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/02b1420c768fc00a460de45d3f4510d4/transformed/activity-ktx-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/a955c1767d01f8f5758816819f5cb709/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.1] /Users/hnestmann/.gradle/caches/transforms-4/a955c1767d01f8f5758816819f5cb709/transformed/activity-compose-1.8.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7469e1975cf0c52058390efc01f85ff0/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7469e1975cf0c52058390efc01f85ff0/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/fb79e79f36b38e33efa4bdeb44cc7992/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/fb79e79f36b38e33efa4bdeb44cc7992/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/a59ff0b1e0f836b5e450497b56083d2a/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-extended-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/a59ff0b1e0f836b5e450497b56083d2a/transformed/material-icons-extended-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b84256b96c67c0224aa23c6fb33b458/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b84256b96c67c0224aa23c6fb33b458/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b0eb6ab1f5da91864bd638096b64cdc/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/4b0eb6ab1f5da91864bd638096b64cdc/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/31c1a09ca0b9bed29def874a61fe2245/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/31c1a09ca0b9bed29def874a61fe2245/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/850b967275607c2738bdab25f86f336a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/850b967275607c2738bdab25f86f336a/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/0324e0209f7399d92b4257e44907434f/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/0324e0209f7399d92b4257e44907434f/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/18fb35f371f38115ed01127d08e26a54/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/18fb35f371f38115ed01127d08e26a54/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7ccfad88ed455741bf1319c65a778ffd/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/7ccfad88ed455741bf1319c65a778ffd/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/e161ebeacb2c3fc2d16a333146af5029/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/e161ebeacb2c3fc2d16a333146af5029/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/33854eac49f41b91b2b4dccaddcfbfa0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/33854eac49f41b91b2b4dccaddcfbfa0/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/44f83220e136cdd06629ed415d076ce9/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/44f83220e136cdd06629ed415d076ce9/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/32c957beaac136de444ac81466d04df8/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/32c957beaac136de444ac81466d04df8/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/fc248d758739c28e219a223bd6441d38/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/fc248d758739c28e219a223bd6441d38/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/ce30c6789e35987104af8afaca017257/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/ce30c6789e35987104af8afaca017257/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/b8d5abd0b55ab7ef50859757afcc7cdc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/b8d5abd0b55ab7ef50859757afcc7cdc/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/165ea992e44e5d3ff99fe529e18a2ffe/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/165ea992e44e5d3ff99fe529e18a2ffe/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5935cfa9fa88d376fea27db4df0a341b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5935cfa9fa88d376fea27db4df0a341b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/e9f95c9a88bc32816c18f0447074d16f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/e9f95c9a88bc32816c18f0447074d16f/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/899c304d4183abaafc990b7927eee077/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/899c304d4183abaafc990b7927eee077/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/69b1215de6a549444fca2d3d2e8e1f9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/69b1215de6a549444fca2d3d2e8e1f9e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/51eeca12a4c74e1b56763bdfb3b83b3e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/hnestmann/.gradle/caches/transforms-4/51eeca12a4c74e1b56763bdfb3b83b3e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5b26dbe1b85916298543c81b63988c9d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/5b26dbe1b85916298543c81b63988c9d/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/4414a03736c07d64e1073b819d0cc1a6/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/4414a03736c07d64e1073b819d0cc1a6/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/4268bccb8a9cabed4ed87224eda8187b/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore-preferences:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/4268bccb8a9cabed4ed87224eda8187b/transformed/datastore-preferences-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/006108bc57c4dffda7b578ea092a68a1/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.datastore:datastore:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/006108bc57c4dffda7b578ea092a68a1/transformed/datastore-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/6ca6f7704cefc0213f952738ac8104c9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/6ca6f7704cefc0213f952738ac8104c9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/40eb0fbf460a75fd8a45edd5b1bc0945/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/40eb0fbf460a75fd8a45edd5b1bc0945/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/c225778c4374daf5f1e5f5d32a4d2821/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.5.4] /Users/hnestmann/.gradle/caches/transforms-4/c225778c4374daf5f1e5f5d32a4d2821/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cc1755a4d2fbf5066ffa0a8e75f570a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cc1755a4d2fbf5066ffa0a8e75f570a1/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/2d185c052cc5d6d28d867af6978427e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/2d185c052cc5d6d28d867af6978427e9/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hnestmann/.gradle/caches/transforms-4/605f44ebea5276fb1be7b7ca21f259f0/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/hnestmann/.gradle/caches/transforms-4/605f44ebea5276fb1be7b7ca21f259f0/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cfc321db71d3a58a0fb1b19ab4b4b34c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hnestmann/.gradle/caches/transforms-4/cfc321db71d3a58a0fb1b19ab4b4b34c/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hnestmann/Personal/mini-weather/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/hnestmann/.gradle/caches/transforms-4/c738bc7347dd3d4926d54a3ab2ba9f5b/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.4.0] /Users/hnestmann/.gradle/caches/transforms-4/bbcd97e2c92fd84cc891c9dfe9e58672/transformed/emoji2-1.4.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.miniweather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.miniweather.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /Users/hnestmann/.gradle/caches/transforms-4/66cfba3ae3b44c13447073579d9bc4b6/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/hnestmann/.gradle/caches/transforms-4/2986a61db9fb8a5a8634c9724506c1dd/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/hnestmann/.gradle/caches/transforms-4/4c0b255474b4069ec2408665e5877110/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
